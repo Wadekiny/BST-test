@@ -1,0 +1,4 @@
+/home/wang/cpp_workspace/softbase/Tree/build/CMakeFiles/rebuild_cache.dir
+/home/wang/cpp_workspace/softbase/Tree/build/CMakeFiles/edit_cache.dir
+/home/wang/cpp_workspace/softbase/Tree/build/CMakeFiles/test_shared.dir
+/home/wang/cpp_workspace/softbase/Tree/build/CMakeFiles/test_go.dir

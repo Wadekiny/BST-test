@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BinaryTree.h
+cstdlib
+-
+iostream
+-
+vector
+-
+queue
+-
+cmath
+-
+
+/home/wang/cpp_workspace/softbase/Tree/src/BinaryTree.cpp
+BinaryTree.h
+/home/wang/cpp_workspace/softbase/Tree/src/BinaryTree.h
+cstdlib
+-
+iostream
+-
+vector
+-
+queue
+-
+cmath
+-
+
+/home/wang/cpp_workspace/softbase/Tree/src/main.cpp
+iostream
+-
+ctime
+-
+cstdlib
+-
+algorithm
+-
+BinaryTree.h
+/home/wang/cpp_workspace/softbase/Tree/src/BinaryTree.h
+

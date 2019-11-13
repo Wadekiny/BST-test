@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libtest_shared.so -o libtest_shared.so CMakeFiles/test_shared.dir/src/BinaryTree.cpp.o CMakeFiles/test_shared.dir/src/main.cpp.o 

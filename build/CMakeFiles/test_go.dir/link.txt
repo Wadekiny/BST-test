@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/test_go.dir/src/main.cpp.o  -o test_go -Wl,-rpath,/home/wang/cpp_workspace/softbase/Tree/build libtest_shared.so 
